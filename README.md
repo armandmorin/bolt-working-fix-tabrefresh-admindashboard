@@ -1,1 +1,1 @@
-# bolt-working-fix-tabrefresh-admindashboard
+# bolt-generated-project
